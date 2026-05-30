@@ -1,10 +1,12 @@
-<img width="668" height="455" alt="Roadmap-delete-alert(delete-api)" src="https://github.com/user-attachments/assets/527f4518-d455-4ec8-aacb-e365c9536d67" />
-<img width="1916" height="958" alt="history" src="https://github.com/user-attachments/assets/77b4a282-b246-451d-9454-e51fc74d8505" />
-<img width="1918" height="913" alt="created roadmap- (post api)" src="https://github.com/user-attachments/assets/61b42e30-1715-40a6-a731-b9a0ee853e46" />
-<img width="1165" height="702" alt="generated-roadmap" src="https://github.com/user-attachments/assets/11ca7626-a337-4fa6-a6a1-bcc6d0ed393d" />
-<img width="1205" height="785" alt="generating radmap" src="https://github.com/user-attachments/assets/4343289e-3da1-446b-8ab2-bdec7698964b" />
-<img width="1281" height="785" alt="form_mini-career-roadmap" src="https://github.com/user-attachments/assets/04a40d0c-7135-4a38-8268-594329645ef1" />
 <img width="1912" height="976" alt="dashboard_mini-career-roadmap" src="https://github.com/user-attachments/assets/4b224288-d574-406c-8a77-47fd48cbdd29" />
+<img width="1281" height="785" alt="form_mini-career-roadmap" src="https://github.com/user-attachments/assets/04a40d0c-7135-4a38-8268-594329645ef1" />
+<img width="1205" height="785" alt="generating radmap" src="https://github.com/user-attachments/assets/4343289e-3da1-446b-8ab2-bdec7698964b" />
+<img width="1165" height="702" alt="generated-roadmap" src="https://github.com/user-attachments/assets/11ca7626-a337-4fa6-a6a1-bcc6d0ed393d" />
+<img width="1918" height="913" alt="created roadmap- (post api)" src="https://github.com/user-attachments/assets/61b42e30-1715-40a6-a731-b9a0ee853e46" />
+<img width="1916" height="958" alt="history" src="https://github.com/user-attachments/assets/77b4a282-b246-451d-9454-e51fc74d8505" />
+<img width="1916" height="958" alt="history" src="https://github.com/user-attachments/assets/77b4a282-b246-451d-9454-e51fc74d8505" />
+
+
 # 🚀 Mini Career Roadmap Generator
 
 A Full Stack web application inspired by **Margdarshak AI** that generates personalized career roadmaps based on your target role, current skills, and experience level.
