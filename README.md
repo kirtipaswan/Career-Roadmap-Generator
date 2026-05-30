@@ -4,7 +4,7 @@
 <img width="1165" height="702" alt="generated-roadmap" src="https://github.com/user-attachments/assets/11ca7626-a337-4fa6-a6a1-bcc6d0ed393d" />
 <img width="1918" height="913" alt="created roadmap- (post api)" src="https://github.com/user-attachments/assets/61b42e30-1715-40a6-a731-b9a0ee853e46" />
 <img width="1916" height="958" alt="history" src="https://github.com/user-attachments/assets/77b4a282-b246-451d-9454-e51fc74d8505" />
-<img width="1916" height="958" alt="history" src="https://github.com/user-attachments/assets/77b4a282-b246-451d-9454-e51fc74d8505" />
+<img width="668" height="455" alt="Roadmap-delete-alert(delete-api)" src="https://github.com/user-attachments/assets/f578a2d9-d33d-448a-9fd0-c5d06c1979ce" />
 
 
 # 🚀 Mini Career Roadmap Generator
