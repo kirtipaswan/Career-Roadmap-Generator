@@ -22,6 +22,8 @@ A Full Stack web application inspired by **Margdarshak AI** that generates perso
 - ⏱️ Shows generated date and time for each roadmap
 
 ## 📁 Project Structure
+
+```
 Career-Roadmap-Generator/
 ├── backend/
 │   ├── config/db.js
@@ -39,6 +41,7 @@ Career-Roadmap-Generator/
 │   │   └── HistoryList.js
 │   └── lib/api.js
 └── README.md
+```
 
 ## 🚀 Getting Started
 
@@ -57,9 +60,12 @@ cd Career-Roadmap-Generator
 cd backend
 npm install
 ```
-Create `.env` file:
+
+Create `.env` file in backend folder:
+```env
 MONGO_URI=your_mongodb_connection_string
 PORT=5000
+```
 
 ```bash
 npm run dev
