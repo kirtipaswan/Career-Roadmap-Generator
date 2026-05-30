@@ -1,4 +1,4 @@
-const API_URL = 'http://localhost:5000/api';
+const API_URL = 'https://career-roadmap-generator-yhbm.onrender.com/api';
 
 export const generateRoadmap = async (data) => {
   const response = await fetch(`${API_URL}/roadmap/generate`, {
